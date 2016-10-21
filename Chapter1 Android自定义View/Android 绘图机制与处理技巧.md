@@ -21,3 +21,4 @@
 #####通过设置Paint的风格就可以实现画出实心和空心的效果
 *	`setStyle(Paint.Style.FILL); //效果为实心`
 *	`setStyle(Paint.Style.STROKE); //效果为空心`
+![]( AndroidStudyNotes/Chapter1 Android自定义View/Res/FklmMMFCily2A7s3XZoJsmREt4ZS.png )![]( AndroidStudyNotes/Chapter1 Android自定义View/Res/FgMxjIomFOnoR4LLOdlVhmP_VVbc.png )
