@@ -23,4 +23,4 @@
 *	`setStyle(Paint.Style.STROKE); //效果为空心`
 
 
-![]( AndroidStudyNotes/Chapter1 Android自定义View/Res/FklmMMFCily2A7s3XZoJsmREt4ZS.png )![]( AndroidStudyNotes/Chapter1 Android自定义View/Res/FgMxjIomFOnoR4LLOdlVhmP_VVbc.png )
+![]( AndroidStudyNotes/Chapter1 Android自定义View/Res/FklmMMFCily2A7s3XZoJsmREt4ZS.png )![]( https://github.com/hyr0318/AndroidStudyNotes/blob/master/Chapter1%20Android%E8%87%AA%E5%AE%9A%E4%B9%89View/Res/FgMxjIomFOnoR4LLOdlVhmP_VVbc.png )
