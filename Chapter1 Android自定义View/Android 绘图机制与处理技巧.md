@@ -2,7 +2,7 @@
 
 ----------
 ##一.绘图基础
-#####系统通过提供Canvas对象来实现绘图的功能。
+#####1.系统通过提供Canvas对象来实现绘图的功能。
 *	**drawPoint画点**
 *	**drawLine画线**
 *	**drawRect矩形**
@@ -24,3 +24,15 @@
 
 
 ![]( https://github.com/hyr0318/AndroidStudyNotes/blob/master/Chapter1%20Android%E8%87%AA%E5%AE%9A%E4%B9%89View/Res/FklmMMFCily2A7s3XZoJsmREt4ZS.png )![]( https://github.com/hyr0318/AndroidStudyNotes/blob/master/Chapter1%20Android%E8%87%AA%E5%AE%9A%E4%B9%89View/Res/FgMxjIomFOnoR4LLOdlVhmP_VVbc.png )
+
+#####2.通过XML绘图
+
+
+>**Bitmap**
+```
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/ic_launcher"
+    >
+</bitmap>
+```
