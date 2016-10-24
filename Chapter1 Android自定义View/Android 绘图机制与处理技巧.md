@@ -170,3 +170,5 @@ View的绘制流程是从ViewRoot的performTraversals方法开始它经过measur
 *	layout 用来确定View在父容器中的放置位置
 *	draw 用来负责View绘制在屏幕上
 
+
+![](https://github.com/hyr0318/AndroidStudyNotes/blob/master/Chapter1%20Android%E8%87%AA%E5%AE%9A%E4%B9%89View/Res/Fh8iTJ4b5gxoZyk2rvp12Zg2HIlm.bmp)
