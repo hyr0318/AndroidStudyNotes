@@ -127,7 +127,7 @@
 </layer-list>
 
 ```
-实现图层的效果，图片会一次叠加
+实现图层的效果，图片会依次叠加
 
 >Selector
 
@@ -159,3 +159,14 @@
         android:drawable="@drawable/ic_launcher"/>
 </selector>
 ```
+##二.自定义View
+####1.View工作原理
+View的三大流程都是通过ViewRoot来完成的，ViewRoot对应于ViewRootImpl类，它是连接WindowManager 和DecorView的纽带。
+当Activity对象创建，会将DecorView添加到Window中，同时会创建ViewRootImpl对象，并将ViewRooImpl和DecorView关联。
+
+View的绘制流程是从ViewRoot的performTraversals方法开始它经过measure，layout,draw,三个过程最后将一个View绘制出来。
+
+*	measure 用来测量View的宽和高
+*	layout 用来确定View在父容器中的放置位置
+*	draw 用来负责View绘制在屏幕上
+
